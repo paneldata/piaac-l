@@ -1,3 +1,11 @@
+---
+name: piaac-l
+label: PIAAC-L
+config:
+    variables:
+        label-table: True
+---
+
 # PIAAC-L
 
 ## Citation
