@@ -1,7 +1,7 @@
 # piaac-l
 
 * **PIAAC**: **P**rogramm*e* for the **I**nternational **A**ssessment of **A**dult **C**ompetencies
-* -**l**   : long/narrow-data (see: https://en.wikipedia.org/wiki/Wide_and_narrow_data)
+* -**l**   : long/narrow-data (see: https://en.wikipedia.org/w/index.php?title=Wide_and_narrow_data&oldid=812516030)
 
 * Und es heißt "Programm*e*" (Abgefragt: 2018-09-03):
 
