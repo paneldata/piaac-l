@@ -6,7 +6,7 @@
 * Und es heißt wirklich "Programm*e*" (http://web.archive.org: Abgefragt am 2018-09-03):
 
    ** https://web.archive.org/web/20161028070037/https://www.gesis.org/piaac/fdz/daten/langzeitstudie-piaac-l/
- 
+   
    ** https://web.archive.org/web/20180903225333/https://www.gesis.org/en/piaac/rdc/data/piaac-longitudinal/
   
 URL: https://www.gesis.org/piaac/fdz/daten/langzeitstudie-piaac-l/
